@@ -19,3 +19,4 @@ for(let index = 0; index <= postosDeGasolina.length; index++){
         console.log(`O posto mais próximo da sua distância máxima a ser percorrida é à ${postosDeGasolina[index - 1]}km`);
     }
 }
+console.log("----------------------- Exercício 02 -------------------------")
