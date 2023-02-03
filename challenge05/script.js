@@ -21,7 +21,7 @@ for(let x = 0; x < assinante.length; x++){
 
 for(let x = 0; x<horasVet.length;x++){
     porcentagem = Math.ceil(((horasVet[x] * 100)/totalHorasAssistidas))
-    porcentagemVet.push(porcentagem)
+    porcentagemVet.push(porcentagem + "%")
 }
 
 console.log(porcentagemVet)
