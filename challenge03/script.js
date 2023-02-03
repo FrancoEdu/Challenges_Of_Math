@@ -3,7 +3,6 @@ function password(pwd) {
     let numberZero = 0;
   
     let newPwd = [];
-    let matriz = [];
 
     arr.forEach((valor) => {
         valor.split("").map((value, index, _) => {
